@@ -1,5 +1,5 @@
 # ENSF 614 Lab 5    
-An assignment on Object Oriented Programming in C++. Single Inheritance, Multiple Inheritance, and Polymorphism is covered. 
+An assignment on Object Oriented Programming in C++. Single Inheritance, Multiple Inheritance, Polymorphism, and Virtual/Pure Virtual Functions are covered. 
 
 ## Folder Structure 
 - [Lab 5 Instructions](https://github.com/StevenD24/ENSF-614-Lab-5/blob/main/Lab%205.pdf)   
